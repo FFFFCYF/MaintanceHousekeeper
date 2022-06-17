@@ -1,7 +1,7 @@
 {
   "usingComponents": {
     "Tabs":"../../components/Tabs/Tabs",
-    "UpImg":"../../components/UpImg/UpImg"
+    "UpImg":"../../components/Uplmg/UpImg"
   },
   "navigationBarTitleText": "M智能管家v1.0"
 
